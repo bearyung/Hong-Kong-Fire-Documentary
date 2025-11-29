@@ -63,3 +63,4 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-11-29 01:44:25 | INFO     | Found 402 new URLs to scrape
 2025-11-29 02:05:03 | INFO     | Scraper results: 402 success, 0 failed
 2025-11-29 02:05:03 | INFO     | Committing changes...
+2025-11-29 02:05:05 | INFO     | Committed: chore(scraper): auto-scrape 2025-11-29 02:05
